@@ -24,7 +24,7 @@ $ git pull origin master
 >Create a new branch as follows-> git checkout -b [your_phone_number], e.g.
 
 ```sh
-$ git checkout -b 25472XXXXXXX master
+$ git checkout -b 254726937955 master
 ```
 
 >See all branches created
@@ -32,14 +32,14 @@ $ git checkout -b 25472XXXXXXX master
 ```sh
 $ git branch --all
 
-* 25472XXXXXXX
+* 254726937955
   master
 ```
 
 >Push the new branch to github
 
 ```sh
-$ git push origin -u 25472XXXXXXX
+$ git push origin -u 254726937955
 ```
 
 3.Make changes to the branch following the Code Challenge provided.
